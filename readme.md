@@ -2,7 +2,7 @@ Learning Django
 ===============
 
 
-### super user account
+### super user account record.
 
 admin
 
